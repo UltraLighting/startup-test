@@ -17,7 +17,7 @@ function initNeopixels() {
   // initalize config:
   ledHandler.configure(config.options);
   // clear all pixels:
-  pixels.forEach((plx, i) => pixels[i] = rgbColor(100, 0, 255, 0.5));
+  pixels.forEach((plx, i) => pixels[i] = rgbColor(100, 0, 255, 0.3));
   // update pixels:
   ledHandler.render(pixels);
 }
