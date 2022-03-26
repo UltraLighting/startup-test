@@ -1,0 +1,28 @@
+{
+  "controller": {
+    "neopixel": {
+      "options": {
+        "leds": 32,
+        "stripType": "grb",
+        "dma": 10,
+        "gpio": 18,
+        "brightness": 255,
+        "refreshTime": 10
+      },
+      "dot2Color": {
+        "red": 245,
+        "green": 189,
+        "blue": 7
+      },
+      "startup": {
+        "red": 230,
+        "green": 0,
+        "blue": 255
+      },
+      "intensity": {
+        "buttonOff": 0.2,
+        "buttonOn": 1
+      }
+    }
+  }
+}

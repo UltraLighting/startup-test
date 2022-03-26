@@ -1,0 +1,25 @@
+{
+  "name": "startup-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "neopixel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltraLighting/startup-test.git"
+  },
+  "dependencies": {
+    "oled-font-5x7": "^1.0.3",
+    "rpi-ws281x": "^1.0.36",
+    "sh1106-js": "0.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UltraLighting/startup-test/issues"
+  },
+  "homepage": "https://github.com/UltraLighting/startup-test#readme"
+}
