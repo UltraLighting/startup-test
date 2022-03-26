@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node --experimental-json-modules --experimental-specifier-resolution=node --no-warnings index.js"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/UltraLighting/startup-test.git"
